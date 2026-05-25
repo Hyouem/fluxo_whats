@@ -78,6 +78,7 @@ This project was developed to practice:
 ## 📷 Demonstration
 
 ![alt text](<Captura de tela 2026-05-25 130819.png>)
+![alt text](<Captura de tela 2026-05-25 163036.png>)
 
 - The flow includes:
 
